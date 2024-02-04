@@ -27,5 +27,8 @@ dvc plots show
 dvc push 
 
 git add/commit/tag/push
+git push
+git push --tag
+
 dvc metrics diff
 dvc plots diff
